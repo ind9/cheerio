@@ -1,6 +1,6 @@
 {
   "author": "Matt Mueller <mattmuelle@gmail.com> (mattmueller.me)",
-  "name": "cheerio",
+  "name": "cheerio_legacy",
   "description": "Tiny, fast, and elegant implementation of core jQuery designed specifically for the server",
   "keywords": ["htmlparser", "jquery", "selector", "scraper"],
   "version": "0.12.0",
